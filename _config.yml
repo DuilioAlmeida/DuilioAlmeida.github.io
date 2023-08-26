@@ -18,9 +18,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Prof. Duilio Almeida # the main title
+title: Prof. Me Duilio Almeida # the main title
 
-tagline: Bem vindo à minha página pessoal. Aqui você encontra acesso direto ao meu trabalho, incluindo produção acadêmica,  material didático e links das minhas redes sociais. # it will display as the sub-title
+tagline: Bem vindo à minha página pessoal. Aqui você tem acesso ao meu trabalho, incluindo produção acadêmica,  material didático e links das minhas redes sociais. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
